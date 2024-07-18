@@ -1,0 +1,11 @@
+C:\Users\mrjunio\Desktop\Test\TipsAndDemos\bin\Release\TipsAndDemos.exe.config
+C:\Users\mrjunio\Desktop\Test\TipsAndDemos\bin\Release\TipsAndDemos.exe
+C:\Users\mrjunio\Desktop\Test\TipsAndDemos\bin\Release\TipsAndDemos.pdb
+C:\Users\mrjunio\Desktop\Test\TipsAndDemos\obj\Release\TipsAndDemos.csproj.AssemblyReference.cache
+C:\Users\mrjunio\Desktop\Test\TipsAndDemos\obj\Release\TipsAndDemos.csproj.CoreCompileInputs.cache
+C:\Users\mrjunio\Desktop\Test\TipsAndDemos\obj\Release\TipsAndDemos.exe
+C:\Users\mrjunio\Desktop\Test\TipsAndDemos\obj\Release\TipsAndDemos.pdb
+C:\Users\mrjunio\Desktop\Test\TipsAndDemos\bin\Release\TipsAndDemos.exe.manifest
+C:\Users\mrjunio\Desktop\Test\TipsAndDemos\bin\Release\TipsAndDemos.application
+C:\Users\mrjunio\Desktop\Test\TipsAndDemos\obj\Release\TipsAndDemos.exe.manifest
+C:\Users\mrjunio\Desktop\Test\TipsAndDemos\obj\Release\TipsAndDemos.application
